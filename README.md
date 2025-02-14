@@ -24,6 +24,13 @@ FinanceTracker is a super simple Python app designed to help you keep tabs on yo
 *   **CRUD Operations:** ✍️ You've got full control! Add, view, edit, and delete all your revenue and expense entries.
 *   **Rapid Development:** ⚡ Built this whole thing in just one day, a testament to how quickly you can get stuff done!
 
+<br><br>
+![Alt Text](https://github.com/YasinShamsedini/ExpenseRevenueTracker/blob/main/images/mainfin.JPG)
+<br><br>
+![Alt Text](https://github.com/YasinShamsedini/ExpenseRevenueTracker/blob/main/images/detaiexpfin.JPG)
+<br><br>
+
+
 ## Technologies Used 💻
 
 *   **Python:** Programming language for the application logic.
@@ -126,4 +133,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📧
 
-If you have any questions or feedback, please feel free to contact me at [your_email@example.com](mailto:your_email@example.com).
+If you have any questions or feedback, you can contact me at [Email](yasin.shamsedini@gmail.com).
