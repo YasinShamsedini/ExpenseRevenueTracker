@@ -1,0 +1,66 @@
+# Python byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+develop-eggs/
+parts/
+wheels/
+eggs/
+.bdist*
+.egg-info/
+
+# Python virtual environment
+.env/
+*.env
+/venv/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+
+# SQL Server files (use extreme caution when including these)
+*.ldf        # SQL Server transaction log files
+*.mdf        # SQL Server primary database files (NEVER include in the repo)
+*.bak        # SQL Server database backup files (NEVER include in the repo)
+*.trn        # Transaction log backups
+*.sqlbak     # Red Gate SQL Backup files
+*.ssmssln    # SQL Server Management Studio solution files
+*.suo        # SQL Server Management Studio solution files
+
+# OS generated files
+.DS_Store        # macOS Finder metadata
+ehthumbs.db      # Windows thumbnail cache
+Icon\r           # macOS icon file
+[Tt]humbs.db     # Windows thumbnail cache
+
+# Project-specific files
+config.ini      # Configuration file (if contains secrets, ensure it's excluded)
+*.log           # Log files (if applicable)
+*.bak           # Backup files
+
+# Files containing sensitive information (always exclude)
+config.py       # Example for configuration files with sensitive data
+*.env           # Alternative environment variable files (make sure to use .env.template for sharing)
+secrets.json    # If using secrets files, make sure to exclude them
+
+# IDE / editor settings
+.vscode/         # VSCode settings folder
+.idea/           # JetBrains IDEs settings folder
+*.iml            # IntelliJ IDEA project files
